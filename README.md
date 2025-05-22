@@ -60,7 +60,7 @@ You now have two options:
 
 Explore the game's charming forest world:
 
-![Screenshot 1](img/IMG6.png)  
-![Screenshot 2](img/IMG7.png)  
-![Screenshot 3](img/IMG8.png)
-![Screenshot 3](img/IMG9.png)
+![Screenshot 1](img/IMG6.jpg)  
+![Screenshot 2](img/IMG7.jpg)  
+![Screenshot 3](img/IMG8.jpg)
+![Screenshot 3](img/IMG9.jpg)
