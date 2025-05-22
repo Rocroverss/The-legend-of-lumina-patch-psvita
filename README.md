@@ -25,7 +25,7 @@ Originally developed in **Godot** for the **KB Games ZeldaJam 2022**, _The Legen
 - Locate `The-Legend-of-Lumina.pck` in the downloaded game folder.
 - Rename it to `game.pck` and place it inside the patch repository folder.
 
-![Step 2](IMG1.png)
+![Step 2](img/IMG1.png)
 
 ### 3. Run the Patch Script
 
@@ -35,11 +35,11 @@ Using **Python 3**, execute the following command:
 python patch.py --pck game.pck --all --output game_patched.pck --build-vpk
 ```
 
-![Running Script](IMG3.png)
+![Running Script](img/IMG3.png)
 
 Once completed, you'll see:
 
-![Output](IMG4.png)
+![Output](img/IMG4.png)
 
 ### 4. Install on Your PSVita
 
@@ -52,7 +52,7 @@ You now have two options:
   - Download the game from **VitaDB**.  
   - Replace the `.pck` file in `ux0:data/game_data/` with your `game_patched.pck`, renamed to `game.pck`.
 
-![Final Step](IMG5.png)
+![Final Step](img/IMG5.png)
 
 ---
 
@@ -60,7 +60,7 @@ You now have two options:
 
 Explore the game's charming forest world:
 
-![Screenshot 1](IMG6.png)  
-![Screenshot 2](IMG7.png)  
-![Screenshot 3](IMG8.png)
-![Screenshot 3](IMG9.png)
+![Screenshot 1](img/IMG6.png)  
+![Screenshot 2](img/IMG7.png)  
+![Screenshot 3](img/IMG8.png)
+![Screenshot 3](img/IMG9.png)
