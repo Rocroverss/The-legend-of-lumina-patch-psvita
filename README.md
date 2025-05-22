@@ -56,9 +56,8 @@ You now have two options:
 
 ---
 ## Known issues:
-- this patch needs to be checked on each version you release.,
-- low fps on some levels (16 fps).,,
-- fps drops on undo actions.,
+- low fps on some levels (16 fps).
+- fps drops on undo actions.
 - sound is not working as intended on some levels.
 
 ---
