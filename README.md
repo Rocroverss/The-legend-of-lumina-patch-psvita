@@ -55,7 +55,13 @@ You now have two options:
 ![Final Step](img/IMG5.png)
 
 ---
+## Known issues:
+- this patch needs to be checked on each version you release.,
+- low fps on some levels (16 fps).,,
+- fps drops on undo actions.,
+- sound is not working as intended on some levels.
 
+---
 ## 📸 Screenshots
 
 Explore the game's charming forest world:
